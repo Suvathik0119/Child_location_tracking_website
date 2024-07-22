@@ -1,0 +1,282 @@
+@media screen and (max-width: 1400px){ 
+    
+}
+@media screen and (max-width: 1200px){ 
+    section {
+        margin: 50px 8% 30px;
+    }
+    .h1-main {
+        font-size: 3.0rem;
+        font-weight: 600;
+    }
+    .h1-sub {
+        font-size: 2.5rem;
+        font-weight: 500;
+    }
+    .p-main {
+        font-size: 2.0rem;
+        font-weight: 400;
+    }
+    .p-sub {
+        font-size: 1.4rem;
+        font-weight: 300;
+    }
+    .p-footer{
+        font-size: 0.9rem;
+        text-align: center;
+    }
+    
+    .nav {
+        font-size: 1.3rem;
+        font-weight: 300;
+    }
+
+    #service{
+    height: 150vh;
+    }
+    #contact{
+        height: 120vh;
+    }
+}
+@media screen and (max-width:900px) {
+    .section-container {
+        flex-wrap: wrap;
+    }
+    #home{
+        height: 120vh;
+    }
+    #about{
+        height: 130vh;
+    }
+    #service{
+        height: 180vh;
+    }
+    #contact{
+        height: 150vh;
+    }
+    .image-container{
+        width: 300px;
+        height: 300px;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+    }
+    section {
+        margin: 50px 8% 30px;
+        gap: 2rem;
+    }
+    .h1-main {
+        font-size: 2.8rem;
+        font-weight: 500;
+    }
+    .h1-sub {
+        font-size: 2.3rem;
+        font-weight: 400;
+    }
+    .p-main {
+        font-size: 1.9rem;
+        font-weight: 300;
+    }
+    .p-sub {
+        font-size: 1.3rem;
+        font-weight: 300;
+    }
+    .p-footer{
+        font-size: 0.8rem;
+        text-align: center;
+    }
+    
+    .nav {
+        font-size: 1.2rem;
+        font-weight: 300;
+    }
+    .perent-container{
+        width: 90%;
+        border: 0.1rem solid transparent;
+        margin: 0.5rem auto;
+        gap: 0;
+    }
+}
+/* for nav bar */
+@media screen and (max-width:900px) {
+    #destop-nav {
+        display: none;
+    }
+
+    #hidden-nav {
+        display: flex;
+    }
+}
+
+@media screen and (max-width:600px) {
+    section {
+        margin: 50px 5% 30px;
+    }
+    .logo img{
+        width: 80px;
+        height: auto;
+    }
+    #home{
+        height: 80vh;
+    }
+    #about{
+        height: 100vh;
+    }
+    #service{
+        height: 150vh;
+    }
+    #contact{
+        height: 125vh;
+    }
+    .image-container{
+        width: 250px;
+        height: 250px;
+    }
+    img{
+        width: 250px;
+        height: 250px;
+    }
+    .h1-main {
+        font-size: 2.5rem;
+        font-weight: 500;
+    }
+    .h1-sub {
+        font-size: 2.1rem;
+        font-weight: 400;
+    }
+    .p-main {
+        font-size: 1.7rem;
+        font-weight: 300;
+    }
+    .p-sub {
+        font-size: 1.1rem;
+        font-weight: 300;
+    }
+    .p-footer{
+        font-size: 0.7rem;
+        text-align: center;
+    }
+    
+    .nav {
+        font-size: 1.0rem;
+        font-weight: 300;
+    }
+
+}
+
+@media screen and (max-width:400px) {
+    section {
+        margin: 30px 5% 20px;
+    }
+    .section-container{
+        gap: 1rem;
+    }
+    .logo img{
+        width: 80px;
+        height: auto;
+    }
+    #home{
+        height: 70vh;
+    }
+    #about{
+        height: 85vh;
+    }
+    #service{
+        height: 105vh;
+    }
+    #contact{
+        height: 110vh;
+    }
+    .image-container{
+        width: 200px;
+        height: 200px;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+    }
+    .h1-main {
+        font-size: 2.0rem;
+        font-weight: 500;
+    }
+    .h1-sub {
+        font-size: 1.9rem;
+        font-weight: 400;
+    }
+    .p-main {
+        font-size: 1.5rem;
+        font-weight: 300;
+    }
+    .p-sub {
+        font-size: 0.9rem;
+        font-weight: 300;
+    }
+    .p-footer{
+        font-size: 0.6rem;
+        text-align: center;
+    }
+    
+    .nav {
+        font-size: 1.0rem;
+        font-weight: 300;
+    }
+    .perent-container{
+        width: 95%;
+        margin: 0;
+        padding: 0;
+    }
+
+}
+
+@media screen and (max-width:300px) {
+    section {
+        margin: 30px 4% 20px;
+    }
+    .section-container{
+        gap: 1rem;
+    }
+    #service{
+        height: 110vh;
+    }
+    #contact{
+        height: 130vh;
+    }
+    .image-container{
+        width: 200px;
+        height: 200px;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+    }
+    .h1-main {
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    .h1-sub {
+        font-size: 1.6rem;
+        font-weight: 400;
+    }
+    .p-main {
+        font-size: 1.4rem;
+        font-weight: 300;
+    }
+    .p-sub {
+        font-size: 0.8rem;
+        font-weight: 300;
+    }
+    .p-footer{
+        font-size: 0.5rem;
+        text-align: center;
+    }
+    
+    .nav {
+        font-size: 0.9rem;
+        font-weight: 300;
+    }
+    .Contect{
+        gap: 0;
+    }
+
+}
