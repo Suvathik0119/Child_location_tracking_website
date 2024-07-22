@@ -19,28 +19,19 @@ In the digital age, there are numerous apps available for real-time location tra
 ## Acknowledgments
 I would like to extend my gratitude to my project coordinator, Mr. A.C. Aasik, for his invaluable guidance and support throughout this project.
 
-
-
-
-🚀 Exciting News! 🚀
-
-I am thrilled to announce the completion of my final year project: MR.Child - A Child Real-time Location Tracking Website! 🎉
-
-Under the guidance of Mr. A.C. Aasik, I have developed a website that allows parents to monitor their children's location in real-time. This project includes:
-
-✅ Parent and child registration and login
-✅ Real-time location sharing without needing device permissions
-✅ Map view for parents to track their child's location
-
-Tech Stack:
-
-Front-end: HTML, CSS, JavaScript
-Back-end: PHP, HTML
-Server: XAMPP
-I was inspired to create MR.Child after noticing that many existing apps for child location tracking require premium access for full functionality. My goal was to provide a free and accessible solution for all parents.
-
-A huge thank you to Mr. A.C. Aasik for his support and guidance throughout this journey! 🙏
-
-Feel free to check out the project and share your thoughts!
-
-#FinalYearProject #LocationTracking #ChildSafety #WebDevelopment #TechForGood
+### Some Screenshot 
+- **Main page**
+  ![child home](https://github.com/user-attachments/assets/8ffc2782-89ef-45a4-abc4-74af67da04af)
+- **Contact page**
+  ![child contact](https://github.com/user-attachments/assets/3930511b-5529-4124-9506-fe1a3517e5f6)
+- **Service page**
+  ![child instruction](https://github.com/user-attachments/assets/277800a0-82ec-4d58-b763-e3a33d045afa)
+- **Register page**
+  ![Screenshot 2024-07-17 220336](https://github.com/user-attachments/assets/2d5e571d-63e6-4c61-9e14-e766902203e0)
+- **Login page**
+  ![child login](https://github.com/user-attachments/assets/bf482abc-2281-4acf-a05f-3f7e867f80a7)
+- **Parent dashboard**
+  ![parent dash](https://github.com/user-attachments/assets/35c0cdbb-6cff-49ea-afa9-fef581340185)
+- **Child dashboart**
+  ![child dash](https://github.com/user-attachments/assets/c3e56e11-f32a-451c-ba22-97ca4d670de2)
+- **if you wont more detail about this project contact me (k4suvathik@gmail.com)**
