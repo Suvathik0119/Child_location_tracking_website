@@ -36,7 +36,7 @@ $children = $conn->query("SELECT users.* FROM users JOIN parent_child_relation O
       src="https://kit.fontawesome.com/258d58ad40.js"
       crossorigin="anonymous"
     ></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=hMS0xon8VclUU2yC3jxpz7AdFOoWgVgN9NdwW0cRxG8sXjvEmhHnOjXOM3g1xaTy"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=_ENTER_YOUR_API_KEY_HERE....."></script>
     <script>
         function initMap(childId, lat, lon) {
             var location = {lat: parseFloat(lat), lng: parseFloat(lon)};
